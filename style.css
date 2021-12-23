@@ -16,7 +16,7 @@ body {
 }
 
 .szoveg {
-    width: 20vw;
+    width: 50vw;
     height: 30vh;
     margin-bottom: 5vh;
     font-size: 25px;
@@ -42,6 +42,8 @@ body {
 }
 
 .button {
+    margin-left: 15px;
+    margin-right: 0;
     cursor: pointer;
 }
 
@@ -60,4 +62,10 @@ body {
 
 h1 {
     margin: 30px;
+}
+
+.input {
+    background-color: rgba(153, 153, 153, 0.596);
+    padding: 10px 20px ;
+    border: rgba(255, 255, 255, 0.582) 1px solid;
 }

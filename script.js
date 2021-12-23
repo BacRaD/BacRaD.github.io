@@ -2,7 +2,7 @@ let dataBase = [
  "Anya! Eltévedt a Jézuska. Rossz ajtón vitte be az ajándékod és még ott is hagyta. Ráadásul a kulcsot is eldugta előled. Azt hiszem a lámpád mögött láttam valamit...",
  "Nagyon ügyes! Keresni és számolni is tud, igazi főnyeremény! Na de van gyengesége is... Mosogatni pélául nagyon ritkán szokott. Lehet hogy most mégis körbe kéne ott nézni!",
  "Sikerült megtalálni? Pedig rég jártál arra.. Büszke vagyok Anya! Na de most merre tovább? Azt hiszem Katinéni kihallgatta a Jézuskát, hátha tud segíteni.",
- "Kicsit félt tőla a Jézuska, hogy nem mersz segítséget kérni tőle, de most nagyon büszke Rád! Annyira, hogy enged pihenni egy kicsit. Pláne hogy ilyen szép kanapé került a házba!",
+ "Kicsit félt tőle a Jézuska, hogy nem mersz segítséget kérni tőle, de most nagyon büszke Rád! Annyira, hogy enged pihenni egy kicsit. Pláne hogy ilyen szép kanapé került a házba!",
  "Ügyibügyi vagy! Járt a spájzodban anya! Nagyon szereti ő is a kolbászt...",
  "Legközelebb rakjál ki neki olyat is ami ehető, lehet akkor nem piszkál majd téged alvás közben. Ha nincs a párna alatt az a sok koszos zsepi és nem ijeszti el, lehetett volna nagyobb baj is.",
  "Nagyon belejöttél Anya! A Jézuska viszont nem. Amikor a mosogatónál kotorászott, leöntötte magát. Vajon talált magának száraz ruhát a vizes helyett?",
