@@ -1,0 +1,63 @@
+body {
+    overflow: hidden;
+    background-color: rgb(197, 197, 197);
+    background-image: url("./Image/IMG_5565.jpg");
+    background-size: auto 100vh;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+.contain {
+    display: flex;
+    margin-top: 55vh;
+    align-items: center;
+    flex-direction:column-reverse;
+}
+
+.szoveg {
+    width: 20vw;
+    height: 30vh;
+    margin-bottom: 5vh;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.input {
+    margin-bottom: 5vh;
+    display: flex;
+}
+
+.input img {
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+}
+
+.inputCss {
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+}
+
+.button {
+    cursor: pointer;
+}
+
+.mikulas {
+    position: absolute;
+    bottom: -135px;
+    visibility: hidden;
+}
+
+.mikulas2 {
+    position: absolute;
+    top: 0;
+    right: 30px;
+    visibility: hidden;
+}
+
+h1 {
+    margin: 30px;
+}
