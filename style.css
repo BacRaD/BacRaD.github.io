@@ -10,7 +10,7 @@ body {
 
 .contain {
     display: flex;
-    margin-top: 55vh;
+    margin-top: 30vh;
     align-items: center;
     flex-direction:column-reverse;
 }
